@@ -7,10 +7,9 @@ The Sparks Foundation Internship Project presents the Basic Banking System, a we
 This project is built with a robust technology stack, utilizing the power of HTML, CSS, Bootstrap and JavaScript for the front-end design, PHP for the back-end functionality, and MySQL as the database management system. With these technologies, the project guarantees an efficient and seamless user experience.
 
 The website is hosted on 000Webhost, a reliable and secure hosting platform. 
-You can access the live website via the link provided: https://gripsystem.000webhostapp.com/
+You can access the live website via the link provided: https://tsfwebspark.000webhostapp.com/
 
-If you have any questions or want to know more about the project, you can reach out to the creator, 
-Vishal Chhipa, on LinkedIn at: https://www.linkedin.com/in/vishalchhipa00/
+
          
  
 

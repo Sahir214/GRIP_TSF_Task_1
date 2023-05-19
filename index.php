@@ -13,6 +13,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
 </head>
+<!-- CSS  -->
 <style>
   *{
   margin: 0;
@@ -59,16 +60,15 @@ span{
   max-width: 50px;
 }
 </style>
-
-
+<!-- BODY -->
 <body>
 
-    <!-- Nav bar -->
+<!-- Nav bar -->
     
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-info p-3">
+<nav class="navbar navbar-expand-lg navbar-light bg-info p-3">
   <div class="container-fluid">
-  <a class="navbar-brand" href="#">Money Bank</a>
+   <a class="navbar-brand" href="#">Money Bank</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -100,36 +100,25 @@ span{
       <br>
       <p class="tsf"><span><img src="logos/tsf.png" alt=""></span><span><a href="https://www.thesparksfoundationsingapore.org/" target="_blank">The Sparks Foundation</a></span></p>
     </div>
+
     <div class="col-sm-12 col-md-6 col-lg-6 col-12">
       <h2>Let's have look on <span>functionality</span></h2>
       <div class="button">
         <a href="money.php"><button type="button" class="btn btn-primary active m-1" >Money Transfer</button></a>
-      
-      <a href="history.php"><button type="button" class="btn btn-primary m-1"  >Transactions</button></a>
-
-    </div>
+        <a href="history.php"><button type="button" class="btn btn-primary m-1"  >Transactions</button></a>
       </div>
-      
-    
+    </div>
   </div>
 </div>
    
 
      <!-- footer -->
 <footer class="footer">
-     
-  
   <div class="legal">
-    <p>&copy; 2023 Sahil Kasekar. All rights reserved.</p>
-    
+    <p>&copy; 2023 Sahil Kasekar. All rights reserved.</p>  
   </div>
 </footer>
 
-
-    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-
-   
 </body>
-
 </html>
